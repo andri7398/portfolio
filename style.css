@@ -186,6 +186,10 @@ p{
         0 -0.07em black;
 }
 
+h3{
+    font-size: x-large;
+}
+
 .div-bg{
     background: rgba(191, 213, 241,.15);
     padding:30px; 
